@@ -2,7 +2,7 @@
 layout: post
 title:  "Options for creating a new site with Jekyll"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ Nuestro viaje, Lo que nos mueve ]
 image: assets/images/13.jpg
 ---
 

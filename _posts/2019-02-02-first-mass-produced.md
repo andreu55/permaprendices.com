@@ -2,7 +2,7 @@
 layout: post
 title:  "The first mass-produced book to deviate from a rectilinear format"
 author: sal
-categories: [ tutorial ]
+categories: [ Lo que nos mueve ]
 image: assets/images/17.jpg
 tags: [featured]
 ---

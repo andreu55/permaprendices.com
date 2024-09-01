@@ -2,7 +2,7 @@
 layout: post
 title:  "We all wait for summer"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ Nuestro viaje, Lo que nos mueve ]
 image: assets/images/1.jpg
 tags: [featured]
 ---
