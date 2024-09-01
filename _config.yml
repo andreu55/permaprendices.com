@@ -1,11 +1,11 @@
 # Site
 name: 'Permaprendices'
-description: 'Permaprendices is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Permacultura, meditación, ecoaldeas, espiritualidad, ecología profunda, psicodélicos... Documentamos nuestro viaje en busca de formas de vivir más conscientes y alineadas con nuestra esencia.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+# disqus: 'demowebsite'
+email: 'permaprendices@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -34,6 +34,13 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+    permaprendices:
+      name:           Permaprendices
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/logo.webp
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          permaprendices@gmail.com
  
 # Defaults
 defaults:
